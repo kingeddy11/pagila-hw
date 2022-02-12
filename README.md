@@ -1,6 +1,6 @@
 # pagila-hw
 Status:
-[![](https://github.com/kingeddy11/pagila-hw/workflows/tests/badge.svg)](https://github.com/kingeddy11/pagila-hw/actions?query=workflow%3Atests)
+[![tests](https://github.com/kingeddy11/pagila-hw/actions/workflows/tests.yml/badge.svg)](https://github.com/kingeddy11/pagila-hw/actions/workflows/tests.yml)
 
 ## Background
 
